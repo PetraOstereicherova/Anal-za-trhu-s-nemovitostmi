@@ -1,2 +1,2 @@
-# Anal-za-trhu-s-nemovitostmi
+# Analýza trhu s nemovitostmi
 Projekt: Analýza trhu s nemovitostmi
